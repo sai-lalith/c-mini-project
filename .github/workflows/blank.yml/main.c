@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<windows.h>
 
+//hello
+
  struct Node{
   char *name;
   char *model;
